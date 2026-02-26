@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "WebFetch",
+      "WebSearch",
+      "Edit(/memory/**)",
+      "mcp__ide__executeCode"
+    ]
+  }
+}
